@@ -4,7 +4,7 @@ import numpy as np
 #Input Parameters  
 discount_rate = 0.1     #10% discounted rate 
 
-CAPEX = 8000000   #Capital Expenditures 
+CAPEX = 10000000   #Capital Expenditures 
 
 Yearly_Average_Production = 2000   #boe/d (1BOE = 1 6MSCF or 6000 SCF of gas)
 
