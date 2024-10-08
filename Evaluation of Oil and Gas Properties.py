@@ -6,11 +6,11 @@ discount_rate = 0.1     #10% discounted rate
 
 CAPEX = 10000000   #Capital Expenditures 
 
-Yearly_Average_Production = 2000   #boe/d (1BOE = 1 6MSCF or 6000 SCF of gas)
+Yearly_Average_Production = 4000   #boe/d (1BOE = 1 6MSCF or 6000 SCF of gas)
 
 Yearly_Total_Production = Yearly_Average_Production*365
 
-Annual_Taxes = 100000   # USD 
+Annual_Taxes = 120000   # USD 
 
 Annual_Royalties = 90000 #USD 
 
